@@ -99,3 +99,8 @@ Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzg
 | CAM&#8209;02 | Korytarz w pobliżu górnego wejścia na rzucie. |
 
 ### Rzut rozmieszczenia kamer
+
+<p align="left">
+  <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="50%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
+</p>
+
