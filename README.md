@@ -108,3 +108,10 @@ Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzg
   <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="50%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
 </p>
 
+## 6. Pliki projektu
+
+- **[Model BIM (IFC)](AGH_U3_BIM.ifc)** – model parteru przychodni obejmujący architekturę oraz rozmieszczenie punktów LAN, Wi-Fi i kamer CCTV.
+- **Pliki CSV wyeksportowane z Autodesk Revit:**
+  - [Zestawienie punktów LAN](zestawienia/Zestawienie%20punktow%20LAN.csv)
+  - [Zestawienie punktów Wi-Fi](zestawienia/Zestawienie%20punktow%20WiFi.csv)
+  - [Zestawienie kamer CCTV](zestawienia/Zestawienie%20kamer%20CCTV.csv)
