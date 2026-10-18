@@ -1,8 +1,6 @@
 # Projekt instalacji teletechnicznych: przychodnia AGH
 
-Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3. Opracowywany w **Autodesk Revit** na podstawie rzutu architektonicznego udostępnionego w materiałach przetargowych AGH.
-
-Zakres projektu obejmuje model budynku oraz koncepcję sieci **LAN**, **Wi-Fi** i systemu **CCTV**.
+Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3, opracowywany w **Autodesk Revit** na podstawie rzutu architektonicznego udostępnionego w materiałach przetargowych AGH. Obejmuje model architektoniczny oraz rozmieszczenie gniazd **LAN**, punktów dostępowych **Wi-Fi** i kamer **CCTV**, bez projektowania tras kablowych, zasilania i wyposażenia punktu dystrybucyjnego oraz doboru urządzeń aktywnych.
 
 ## 1. Model architektoniczny
 
@@ -101,8 +99,3 @@ Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzg
 | CAM&#8209;02 | Korytarz w pobliżu górnego wejścia na rzucie. |
 
 ### Rzut rozmieszczenia kamer
-
-<p align="left">
-  <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="50%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
-</p>
-
