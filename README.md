@@ -52,7 +52,7 @@ Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [r
 
 ### Podstawa przyjętych rozwiązań
 
-Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisach wycofanej normy PN-EN 50173-1:2004, wykorzystanej jako materiał pomocniczy.
+Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisach wycofanej normy PN-EN&nbsp;50173-1:2004, wykorzystanej jako materiał pomocniczy.
 
 * **Punkt 4.7.5.1 a:** każdy indywidualny obszar roboczy powinien być obsługiwany przez co najmniej dwa gniazda telekomunikacyjne.
 * **Punkt 4.7.5.1 d:** każde gniazdo powinno mieć stały opis widoczny dla użytkownika.
