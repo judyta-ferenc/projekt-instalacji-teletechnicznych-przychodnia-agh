@@ -1,0 +1,5 @@
+﻿Kontrola kamer CCTV,,,,
+Mark,Family and Type,Level,Count,Comments,Elevation from Level
+,,,,,
+CAM-01,CCTV_Dome_AGH: Dome,L1,1,CCTV - wejscie dolne 0.09 - IP Dome - PoE - Cat.6A,2700
+CAM-02,CCTV_Dome_AGH: Dome,L1,1,CCTV - wejscie gorne 0.10 - IP Dome - PoE - Cat.6A,2700
