@@ -16,11 +16,11 @@ Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń t
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/model/model-parteru-revit-z-podkladem.jpg" width="100%" alt="Model parteru z podkładem PDF">
+      <img src="screenshots/model-parteru-revit-z-podkladem.jpg" width="100%" alt="Model parteru z podkładem PDF">
       <br><sub>Model parteru przychodni AGH U-3 z widocznym podkładem PDF</sub>
     </td>
     <td align="center">
-      <img src="screenshots/model/model-parteru-revit-bez-podkladu.jpg" width="100%" alt="Model parteru bez podkładu PDF">
+      <img src="screenshots/model-parteru-revit-bez-podkladu.jpg" width="100%" alt="Model parteru bez podkładu PDF">
       <br><sub>Model parteru przychodni AGH U-3 bez widocznego podkładu PDF</sub>
     </td>
   </tr>
@@ -38,7 +38,7 @@ Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [r
 * **Wysokość w modelu:** 300 mm powyżej poziomu L1, oznaczającego poziom parteru. Dostęp do gniazd pod ladą recepcji należy sprawdzić po uwzględnieniu zabudowy meblowej.
 * **Założenie połączeń:** do każdego portu przewidziano osobny kabel czteroparowy prowadzący do punktu dystrybucyjnego.
 
-### Rozmieszczenie i uzasadnienie
+### Zestawienie punktów LAN
 
 | Punkt | Lokalizacja |
 |---|---|
@@ -59,7 +59,7 @@ Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisac
 ### Rzut punktów LAN
 
 <p align="left">
-  <img src="screenshots/lan/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
+  <img src="screenshots/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
 </p>
 
 ## 3. Sieć Wi-Fi
@@ -69,7 +69,7 @@ W modelu rozmieszczono wstępnie **trzy punkty dostępowe**, aby zapewnić dost�
 * **Liczba punktów dostępowych:** 3.
 * **Oznaczenia:** AP-01, AP-02 i AP-03.
 * **Podstawa rozmieszczenia:** układ pomieszczeń i położenie przegród budowlanych.
-* **Dalsza weryfikacja:** sprawdzenie liczby i lokalizacji punktów dostępowych pod kątem zasięgu, tłumienia przegród, liczby użytkowników i parametrów urządzeń, a także możliwości doprowadzenia okablowania i zasilania oraz dostępu do obsługi.
+* **Dalsza weryfikacja:** sprawdzenie liczby i lokalizacji punktów dostępowych z uwzględnieniem zasięgu, tłumienia przegród, liczby użytkowników i parametrów urządzeń oraz możliwości doprowadzenia okablowania i zasilania i zapewnienia dostępu serwisowego.
 
 ### Zestawienie punktów dostępowych
 
@@ -82,6 +82,6 @@ W modelu rozmieszczono wstępnie **trzy punkty dostępowe**, aby zapewnić dost�
 ### Rzut punktów dostępowych
 
 <p align="left">
-  <img src="screenshots/wifi/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
+  <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
 </p>
 
