@@ -10,7 +10,7 @@ Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń t
 
 * **Dokument źródłowy:** [rzut parteru przychodni AGH U-3, rysunek 03A](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
 * **Zakres modelowania:** ściany, drzwi i okna.
-* **Metoda:** wczytano podkład PDF i dopasowano jego skalę do wymiarów na rysunku. Geometrię budynku odtworzono na jego podstawie, w miarę możliwości zgodnie z podanymi wymiarami.
+* **Metoda:** wczytano podkład PDF i dopasowano jego skalę do wymiarów na rysunku. Geometrię budynku odtworzono na jego podstawie zgodnie z podanymi wymiarami.
 * **Uproszczenia:** model przedstawia główne elementy budynku. Nie odwzorowuje wszystkich detali konstrukcyjnych i wykończeniowych ani istniejących instalacji.
 
 <table>
