@@ -110,7 +110,7 @@ Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzg
 
 ## 6. Pliki projektu
 
-- [Model BIM (IFC)](AGH_U3_BIM.ifc) – model parteru przychodni obejmujący architekturę oraz rozmieszczenie punktów LAN, Wi-Fi i kamer CCTV.
+- [Model BIM (IFC)](AGH_Instalacje_Teletechniczne.ifc) – model parteru przychodni obejmujący architekturę oraz rozmieszczenie punktów LAN, Wi-Fi i kamer CCTV.
 - Pliki CSV wyeksportowane z Autodesk Revit:
   - [Zestawienie punktów LAN](arkusze/Zestawienie%20punktow%20LAN.csv)
   - [Zestawienie punktów Wi-Fi](arkusze/Zestawienie%20punktow%20WiFi.csv)
