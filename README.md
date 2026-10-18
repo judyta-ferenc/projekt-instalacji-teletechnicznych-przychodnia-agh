@@ -1,15 +1,19 @@
 # Projekt instalacji teletechnicznych: przychodnia AGH
 
-Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3, opracowywany w **Autodesk Revit** na podstawie rzutu architektonicznego udostępnionego w materiałach przetargowych AGH. Obejmuje model architektoniczny oraz rozmieszczenie gniazd **LAN**, punktów dostępowych **Wi-Fi** i kamer **CCTV**, bez projektowania tras kablowych, zasilania i wyposażenia punktu dystrybucyjnego oraz doboru urządzeń aktywnych.
+Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3, opracowywany w **Autodesk Revit**.
 
-## 1. Model architektoniczny
+## 1. Założenia projektowe
+
+Podstawą opracowania jest rzut architektoniczny udostępniony w materiałach przetargowych AGH. Projekt obejmuje model architektoniczny oraz rozmieszczenie gniazd **LAN**, punktów dostępowych **Wi-Fi** i kamer **CCTV**. Lokalizacje urządzeń dobrano z uwzględnieniem stanowisk pracy, przeznaczenia pomieszczeń i układu ciągów komunikacyjnych. Zakres nie obejmuje projektowania tras kablowych, zasilania ani wyposażenia punktu dystrybucyjnego oraz doboru urządzeń aktywnych.
+
+## 2. Model architektoniczny
 
 Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń teletechnicznych.
 
 * **Dokument źródłowy:** [rzut parteru przychodni AGH U-3, rysunek 03A](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
 * **Zakres modelowania:** ściany, drzwi i okna.
 * **Metoda:** wczytano podkład PDF i dopasowano jego skalę do wymiarów na rysunku. Geometrię budynku odtworzono na jego podstawie zgodnie z podanymi wymiarami.
-* **Uproszczenia:** model przedstawia główne elementy budynku. Nie odwzorowuje wszystkich detali konstrukcyjnych i wykończeniowych ani istniejących instalacji.
+* **Uproszczenia:** model przedstawia główne elementy budynku; nie odwzorowuje wszystkich detali konstrukcyjnych i wykończeniowych ani istniejących instalacji.
 
 <table>
   <tr>
@@ -24,7 +28,7 @@ Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń t
   </tr>
 </table>
 
-## 2. Sieć LAN
+## 3. Sieć LAN
 
 Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [rzucie architektonicznym](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
 
@@ -60,9 +64,9 @@ Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisac
   <img src="screenshots/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
 </p>
 
-## 3. Sieć Wi-Fi
+## 4. Sieć Wi-Fi
 
-Wstępne rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy w wybranych pomieszczeniach i przestrzeniach wspólnych.
+Rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy w wybranych pomieszczeniach i przestrzeniach wspólnych.
 
 * **Liczba punktów dostępowych:** 3.
 * **Oznaczenia:** AP-01, AP-02 i AP-03.
@@ -83,7 +87,7 @@ Wstępne rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy
   <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
 </p>
 
-## 4. Kamery CCTV
+## 5. Kamery CCTV
 
 Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzględniając układ ciągów komunikacyjnych.
 
