@@ -1,6 +1,6 @@
 # Projekt instalacji teletechnicznych: przychodnia AGH
 
-Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3, opracowywany w **Autodesk Revit**.
+Projekt koncepcyjny wybranych instalacji teletechnicznych na parterze przychodni AGH U-3, opracowany w **Autodesk Revit**.
 
 ## 1. Założenia projektowe
 
@@ -34,7 +34,7 @@ Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [r
 
 * **Liczba punktów:** 5.
 * **Oznaczenia punktów:** LAN-01, LAN-02, LAN-03, LAN-04 i LAN-05.
-* **Wyposażenie punktu:** 2 × RJ45 kategorii 6A.
+* **Wyposażenie punktu:** 2 × gniazdo RJ45 kat. 6A.
 * **Łączna liczba portów:** 10.
 * **Rozmieszczenie:** gniazda umieszczono blisko stanowisk pracy, aby ograniczyć długość przewodów przyłączeniowych.
 * **Wysokość w modelu:** 300 mm powyżej poziomu L1, oznaczającego poziom parteru. Dostęp do gniazd pod ladą recepcji należy sprawdzić po uwzględnieniu zabudowy meblowej.
@@ -60,8 +60,8 @@ Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisac
 
 ### Rzut punktów LAN
 
-<p align="left">
-  <img src="screenshots/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
+<p align="center">
+  <img src="screenshots/rozmieszczenie-punktow-lan.jpg" width="60%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
 </p>
 
 ## 4. Sieć Wi-Fi
@@ -71,7 +71,7 @@ Rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy w wybran
 * **Liczba punktów dostępowych:** 3.
 * **Oznaczenia:** AP-01, AP-02 i AP-03.
 * **Podstawa rozmieszczenia:** układ pomieszczeń i położenie przegród budowlanych.
-* **Dalsza weryfikacja:** sprawdzenie liczby i lokalizacji punktów dostępowych z uwzględnieniem zasięgu, tłumienia przegród, liczby użytkowników i parametrów urządzeń oraz możliwości doprowadzenia okablowania i zasilania i zapewnienia dostępu serwisowego.
+* **Dalsza weryfikacja:** ocena zasięgu i tłumienia sygnału przez przegrody, uwzględnienie liczby użytkowników oraz sprawdzenie możliwości montażu, zasilania i podłączenia urządzeń.
 
 ### Zestawienie punktów dostępowych
 
@@ -83,8 +83,8 @@ Rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy w wybran
 
 ### Rzut punktów dostępowych
 
-<p align="left">
-  <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
+<p align="center">
+  <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="60%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
 </p>
 
 ## 5. Kamery CCTV
@@ -104,14 +104,14 @@ Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzg
 
 ### Rzut rozmieszczenia kamer
 
-<p align="left">
-  <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="50%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
+<p align="center">
+  <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="60%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
 </p>
 
 ## 6. Pliki projektu
 
-- **[Model BIM (IFC)](AGH_U3_BIM.ifc)** – model parteru przychodni obejmujący architekturę oraz rozmieszczenie punktów LAN, Wi-Fi i kamer CCTV.
-- **Pliki CSV wyeksportowane z Autodesk Revit:**
-  - [Zestawienie punktów LAN](zestawienia/Zestawienie%20punktow%20LAN.csv)
-  - [Zestawienie punktów Wi-Fi](zestawienia/Zestawienie%20punktow%20WiFi.csv)
-  - [Zestawienie kamer CCTV](zestawienia/Zestawienie%20kamer%20CCTV.csv)
+- [Model BIM (IFC)](AGH_U3_BIM.ifc) – model parteru przychodni obejmujący architekturę oraz rozmieszczenie punktów LAN, Wi-Fi i kamer CCTV.
+- Pliki CSV wyeksportowane z Autodesk Revit:
+  - [Zestawienie punktów LAN](arkusze/Zestawienie%20punktow%20LAN.csv)
+  - [Zestawienie punktów Wi-Fi](arkusze/Zestawienie%20punktow%20WiFi.csv)
+  - [Zestawienie kamer CCTV](arkusze/Zestawienie%20kamer%20CCTV.csv)
