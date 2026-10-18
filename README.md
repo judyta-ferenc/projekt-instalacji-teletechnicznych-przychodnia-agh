@@ -85,7 +85,7 @@ Wstępne rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy
   <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
 </p>
 
-## 4. System CCTV
+## 4. Kamery CCTV
 
 Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzględniając układ ciągów komunikacyjnych.
 
