@@ -8,7 +8,7 @@ Zakres projektu obejmuje model budynku oraz koncepcję sieci **LAN**, **Wi-Fi** 
 
 Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń teletechnicznych.
 
-* **Dokument źródłowy:** rzut parteru przychodni AGH U-3, rysunek 03A.
+* **Dokument źródłowy:** [rzut parteru przychodni AGH U-3, rysunek 03A](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
 * **Zakres modelowania:** ściany, drzwi i okna.
 * **Metoda:** wczytano podkład PDF i dopasowano jego skalę do wymiarów na rysunku. Geometrię budynku odtworzono na jego podstawie, w miarę możliwości zgodnie z podanymi wymiarami.
 * **Uproszczenia:** model przedstawia główne elementy budynku. Nie odwzorowuje wszystkich detali konstrukcyjnych i wykończeniowych ani istniejących instalacji.
@@ -25,3 +25,39 @@ Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń t
     </td>
   </tr>
 </table>
+
+## 2. Sieć LAN
+
+Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [rzucie architektonicznym](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
+
+* **Liczba punktów:** 5.
+* **Wyposażenie punktu:** 2 × RJ45 kategorii 6A.
+* **Łączna liczba portów:** 10.
+* **Rozmieszczenie:** gniazda umieszczono blisko stanowisk pracy, aby ograniczyć długość przewodów przyłączeniowych.
+* **Wysokość w modelu:** 300 mm powyżej poziomu L1, oznaczającego poziom parteru. Dostęp do gniazd pod ladą recepcji należy sprawdzić po uwzględnieniu zabudowy meblowej.
+* **Założenie połączeń:** do każdego portu przewidziano osobny kabel czteroparowy prowadzący do punktu dystrybucyjnego.
+
+### Rozmieszczenie i uzasadnienie
+
+| Punkt | Lokalizacja |
+|---|---|
+| LAN&#8209;01 | 0.01, recepcja, pierwsze stanowisko przy ladzie. |
+| LAN&#8209;02 | 0.01, recepcja, drugie stanowisko przy ladzie. |
+| LAN&#8209;03 | 0.04, gabinet, stanowisko przy biurku. |
+| LAN&#8209;04 | 0.05, gabinet, stanowisko przy biurku. |
+| LAN&#8209;05 | 0.02, gabinet zabiegowy, stanowisko komputerowe. |
+
+### Podstawa przyjętych rozwiązań
+
+Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisach wycofanej normy PN-EN 50173-1:2004, wykorzystanej jako materiał pomocniczy.
+
+* **Punkt 4.7.5.1 a:** każdy indywidualny obszar roboczy powinien być obsługiwany przez co najmniej dwa gniazda telekomunikacyjne.
+* **Punkt 4.7.5.1 d:** każde gniazdo powinno mieć stały opis widoczny dla użytkownika.
+* **Punkt 4.7.5.2 a:** zaleca się umieszczanie zestawu gniazd w miejscu dostępnym dla użytkownika.
+
+### Rzut punktów LAN
+
+<p align="left">
+  <img src="screenshots/lan/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
+</p>
+
