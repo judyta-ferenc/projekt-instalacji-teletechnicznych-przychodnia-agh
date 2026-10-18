@@ -64,7 +64,7 @@ Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisac
 
 ## 3. Sieć Wi-Fi
 
-W modelu rozmieszczono wstępnie **trzy punkty dostępowe**, aby zapewnić dostęp bezprzewodowy w wybranych pomieszczeniach i przestrzeniach wspólnych.
+Wstępne rozmieszczenie punktów dostępowych ma zapewnić dostęp bezprzewodowy w wybranych pomieszczeniach i przestrzeniach wspólnych.
 
 * **Liczba punktów dostępowych:** 3.
 * **Oznaczenia:** AP-01, AP-02 i AP-03.
@@ -83,5 +83,26 @@ W modelu rozmieszczono wstępnie **trzy punkty dostępowe**, aby zapewnić dost�
 
 <p align="left">
   <img src="screenshots/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
+</p>
+
+## 4. System CCTV
+
+Kamery rozmieszczono wstępnie do obserwacji stref wejściowych przychodni, uwzględniając układ ciągów komunikacyjnych.
+
+* **Liczba kamer:** 2.
+* **Oznaczenia:** CAM-01 i CAM-02.
+* **Dalsza weryfikacja:** dobór kierunków obserwacji, pola widzenia i parametrów kamer z uwzględnieniem oświetlenia, przeszkód oraz wymaganej szczegółowości obrazu.
+
+### Zestawienie kamer
+
+| Kamera | Lokalizacja |
+|---|---|
+| CAM&#8209;01 | Korytarz przy dolnym wejściu na rzucie. |
+| CAM&#8209;02 | Korytarz w pobliżu górnego wejścia na rzucie. |
+
+### Rzut rozmieszczenia kamer
+
+<p align="left">
+  <img src="screenshots/rozmieszczenie-kamer-cctv.jpg" width="50%" alt="Rozmieszczenie kamer CCTV na parterze przychodni AGH">
 </p>
 
