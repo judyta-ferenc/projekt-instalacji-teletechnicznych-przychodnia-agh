@@ -31,6 +31,7 @@ Model architektoniczny przygotowano jako podkład do rozmieszczenia urządzeń t
 Instalację LAN zaplanowano dla pięciu stanowisk komputerowych wskazanych na [rzucie architektonicznym](zrodla/03A_Rzut_Parteru_Przychodnia_U-3.pdf).
 
 * **Liczba punktów:** 5.
+* **Oznaczenia punktów:** LAN-01, LAN-02, LAN-03, LAN-04 i LAN-05.
 * **Wyposażenie punktu:** 2 × RJ45 kategorii 6A.
 * **Łączna liczba portów:** 10.
 * **Rozmieszczenie:** gniazda umieszczono blisko stanowisk pracy, aby ograniczyć długość przewodów przyłączeniowych.
@@ -59,5 +60,28 @@ Rozmieszczenie punktów LAN oparto na układzie stanowisk oraz wybranych zapisac
 
 <p align="left">
   <img src="screenshots/lan/rozmieszczenie-punktow-lan.jpg" width="50%" alt="Rozmieszczenie punktów LAN na parterze przychodni AGH">
+</p>
+
+## 3. Sieć Wi-Fi
+
+W modelu rozmieszczono wstępnie **trzy punkty dostępowe**, aby zapewnić dostęp bezprzewodowy w wybranych pomieszczeniach i przestrzeniach wspólnych.
+
+* **Liczba punktów dostępowych:** 3.
+* **Oznaczenia:** AP-01, AP-02 i AP-03.
+* **Podstawa rozmieszczenia:** układ pomieszczeń i położenie przegród budowlanych.
+* **Dalsza weryfikacja:** sprawdzenie liczby i lokalizacji punktów dostępowych pod kątem zasięgu, tłumienia przegród, liczby użytkowników i parametrów urządzeń, a także możliwości doprowadzenia okablowania i zasilania oraz dostępu do obsługi.
+
+### Zestawienie punktów dostępowych
+
+| Punkt | Lokalizacja |
+|---|---|
+| AP&#8209;01 | 0.06, korytarz. |
+| AP&#8209;02 | 0.05, gabinet. |
+| AP&#8209;03 | 0.01, recepcja. |
+
+### Rzut punktów dostępowych
+
+<p align="left">
+  <img src="screenshots/wifi/rozmieszczenie-punktow-wifi.jpg" width="50%" alt="Rozmieszczenie punktów dostępowych Wi-Fi">
 </p>
 
